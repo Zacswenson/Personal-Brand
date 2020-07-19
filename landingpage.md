@@ -1,1 +1,0 @@
-#Ferrin Capital Advisors
