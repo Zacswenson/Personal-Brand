@@ -195,7 +195,7 @@ header {
   text-align: center;
 }
 
-.sidebar-navigation .logo a {
+/*.sidebar-navigation .logo a {
   text-decoration: none;
   color: #fff;
   font-size: 24px;
@@ -207,8 +207,10 @@ header {
   display: inline-block;
   border: 1px solid rgba(250,250,250,0.5);
 }
-
+*/
 .sidebar-navigation .logo em {
+  max-width: 100%;
+  height: auto;
   font-style: normal;
   font-weight: 300;
 }
