@@ -102,7 +102,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #bb9329;
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -2707,7 +2707,7 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #bb9329;
+			background-color: #520b3a;
 		}
 
 		.spotlight:nth-child(3) {
@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #bb9329;
+			background-color: #520b3a;
 			color: #0a0c0a;
 		}
 
